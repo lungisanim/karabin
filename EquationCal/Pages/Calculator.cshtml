@@ -1,0 +1,17 @@
+﻿@page
+@model CalculatorModel
+
+<form method="post">
+    <label for="equation">Enter equation:</label>
+    <input type="text" name="equation" id="equation" required>
+    <br><br>
+    <label for="xValue">Enter x value:</label>
+    <input type="number" name="xValue" id="xValue" required>
+    <br><br>
+    <button type="submit">Calculate</button>
+</form>
+
+@if (Model.YValue != null)
+{
+    <p>Result: y = @Model.YValue</p>
+}
