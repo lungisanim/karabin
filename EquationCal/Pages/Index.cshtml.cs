@@ -19,6 +19,7 @@ namespace EquationCal.Pages
 
         public IActionResult OnGet()
         {
+            _logger.LogInformation("Calculating.....");
             return RedirectToPage("/Calculator");
         }
     }

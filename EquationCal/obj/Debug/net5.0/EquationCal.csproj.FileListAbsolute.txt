@@ -68,3 +68,4 @@ C:\Users\Lungisani Nhlengethw\source\repos\EquationCal\EquationCal\obj\Debug\net
 C:\Users\Lungisani Nhlengethw\source\repos\EquationCal\EquationCal\obj\Debug\net5.0\ref\EquationCal.dll
 C:\Users\Lungisani Nhlengethw\source\repos\EquationCal\EquationCal\obj\Debug\net5.0\EquationCal.pdb
 C:\Users\Lungisani Nhlengethw\source\repos\EquationCal\EquationCal\obj\Debug\net5.0\EquationCal.genruntimeconfig.cache
+C:\Users\Lungisani Nhlengethw\source\repos\EquationCal\EquationCal\obj\Debug\net5.0\EquationCal.csproj.AssemblyReference.cache
